@@ -5,6 +5,8 @@
 - #### Node JS
 - #### React JS
 - #### NPM (Package Manager)
+- #### Javascript
+
 
 ## How to run
 
